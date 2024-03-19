@@ -1,2 +1,2 @@
 We have fixed the follwoing bugs
-1.Fixing some more bugs
+Fixing some more bugs
