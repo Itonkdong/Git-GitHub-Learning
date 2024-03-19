@@ -1,1 +1,2 @@
 Soft reset
+added one more line
