@@ -1,1 +1,3 @@
-mac-address: 123:12:212:211
+mac-address: 123:12:212:211:12
+new-mac-addres: 1233:3222:323:22
+other-comp-mac: 121:212:212:121
